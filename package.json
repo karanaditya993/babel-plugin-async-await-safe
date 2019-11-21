@@ -1,0 +1,16 @@
+{
+  "name": "babel-plugin-async-await-safe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jest test/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-plugin-tester": "^8.0.0",
+    "jest": "^24.9.0"
+  }
+}
